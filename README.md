@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 📞 AIVA – AI Voice Assistant for Real-Estate
 AIVA is a **real-time AI-driven voice solution** designed for property inquiries and lead qualification. It handles calls during after-hours, supporting both English and Arabic with a human-like voice interaction.
 
@@ -99,3 +100,6 @@ Update the [.env](file:///.env) file with your API keys and the ngrok URL.
 For questions or collaboration, you can reach out at:
 
 **Email 📧** : yeshwanth.mudimala@motivitylabs.com
+=======
+# Real-Estate-Agent
+>>>>>>> 4bc5874aff9dca9c467ac530e11b04e0ba0ebb92
