@@ -1,0 +1,13 @@
+Flask>=3.0.0
+Flask-Sock>=0.7.0
+websockets>=12.0
+websocket-client>=1.7.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+piopiy-ai[silero,deepgram,groq]
+groq>=0.4.2
+deepgram-sdk>=3.0.0
+simple-salesforce>=1.12.5
+httpx>=0.26.0
+gevent>=24.10.3
+gevent-websocket>=0.10.1

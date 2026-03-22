@@ -1,0 +1,27 @@
+﻿python : 
+WebSocketException in A
+bstractAsyncWebSocketCl
+ient.start: server 
+rejected WebSocket 
+connection: HTTP 403
+At line:1 char:1
++ python test_dg_multil
+ingual.py > debug_outpu
+t_multilingual.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (WebSocketExce   
+ pt...ction: HTTP 4    
+03:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+AsyncListenWebSocketCli
+ent.start failed
+Testing model='multilingual'...
+FAILED.

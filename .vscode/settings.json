@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "D:\\pyhon\\python.exe",
+    "python.analysis.extraPaths": [
+        ".",
+        "D:\\pyhon\\Lib\\site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportUnresolvedImport": "none"
+    }
+}
