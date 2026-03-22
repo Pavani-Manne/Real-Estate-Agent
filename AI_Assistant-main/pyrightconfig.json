@@ -1,0 +1,9 @@
+{
+    "typeCheckingMode": "off",
+    "reportUnresolvedImport": false,
+    "pythonVersion": "3.13",
+    "pythonPath": "D:\\pyhon\\python.exe",
+    "extraPaths": [
+        "D:\\pyhon\\Lib\\site-packages"
+    ]
+}

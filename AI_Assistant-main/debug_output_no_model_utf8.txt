@@ -1,0 +1,28 @@
+﻿python : 
+WebSocketException in A
+bstractAsyncWebSocketCl
+ient.start: server 
+rejected WebSocket 
+connection: HTTP 400
+At line:1 char:1
++ python 
+test_dg_no_model.py > d
+ebug_output_no_model.tx
+t 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (WebSocketExce   
+ pt...ction: HTTP 4    
+00:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+AsyncListenWebSocketCli
+ent.start failed
+Testing Detect Language WITHOUT model...
+FAILED.

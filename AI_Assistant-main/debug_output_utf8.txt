@@ -1,0 +1,52 @@
+﻿python : 
+WebSocketException in A
+bstractAsyncWebSocketCl
+ient.start: server 
+rejected WebSocket 
+connection: HTTP 400
+At line:1 char:1
++ python debug_dg_compr
+ehensive.py > 
+debug_output.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (WebSocketExce   
+ pt...ction: HTTP 4    
+00:String) [], Rem    
+oteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+AsyncListenWebSocketCli
+ent.start failed
+tasks cancelled error: 
+WebSocketException in A
+bstractAsyncWebSocketCl
+ient.start: server 
+rejected WebSocket 
+connection: HTTP 400
+AsyncListenWebSocketCli
+ent.start failed
+WebSocketException in A
+bstractAsyncWebSocketCl
+ient.start: server 
+rejected WebSocket 
+connection: HTTP 400
+AsyncListenWebSocketCli
+ent.start failed
+--- TEST: Nova-2 + Detect Language ---
+Options: {'model': 'nova-2-general', 'encoding': 'linear16', 'sample_rate': 16000, 'channels': 1, 'detect_language': True}
+FAILED: start() returned False
+--- TEST: Nova-2 + Language EN ---
+Options: {'model': 'nova-2-general', 'encoding': 'linear16', 'sample_rate': 16000, 'channels': 1, 'language': 'en'}
+SUCCESS: Connected!
+--- TEST: Enhanced + Detect Language ---
+Options: {'model': 'enhanced', 'encoding': 'linear16', 'sample_rate': 16000, 'channels': 1, 'detect_language': True}
+FAILED: start() returned False
+--- TEST: All Original (nova-2) ---
+Options: {'channels': 1, 'encoding': 'linear16', 'interim_results': True, 'model': 'nova-2-general', 'punctuate': True, 'profanity_filter': True, 'smart_format': True, 'vad_events': False, 'detect_language': True, 'sample_rate': 16000}
+FAILED: start() returned False
